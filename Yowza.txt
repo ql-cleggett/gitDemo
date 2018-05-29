@@ -1,11 +1,3 @@
 
 
-Linus Torvald
-
-says that Git
-
-is super cool.
-
-And I may be inclined
-
-to believe him.
+Ch ch changes!
